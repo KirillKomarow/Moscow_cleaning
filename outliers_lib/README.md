@@ -110,5 +110,3 @@ outliers_z_score, cleaned_z_score = find_outliers_z_score(data, feature, log=Tru
 * [Метод межквартильного размаха](https://recture.ru/common/chto-takoe-pravilo-mezhkvartilnogo-razmaha/)
 * [Правило трех сигм](https://wiki.loginom.ru/articles/3-sigma-rule.html)
 
-
-
